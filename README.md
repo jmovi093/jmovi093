@@ -1,7 +1,6 @@
 # Hey, I'm Josué
 
-Full Stack Software Engineer based in Costa Rica.
-
+![](banner.png)
 ---
 
 ## Languages
